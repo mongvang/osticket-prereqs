@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> (21H2) x64 Gen2
 
 <h2>List of Prerequisites</h2>
 
@@ -31,22 +31,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/pRvYuHO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-1) Setup Resource group within Azure and name it "osTicket". Once done, select "Review + Create" button at the bottom to create.
+1) Setup Resource group within Azure and name it "RG-osTicket".<br>
+  Once done, select "Review + Create" button at the bottom to create.<br>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CGKUI8T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2) Setup Virtual Machine under Resource Group created in step 1.<br>
+  Then name the Virtual Machine "osTicket-VM".<br> 
+  Make sure to select "Windows 10 Pro" for image.<br>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4VTW77M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3) Make sure to select a decent size virtual machine.<br>
+  Create username and password for this virtual machine.<br> 
+  Then select "allow selected ports". Click button "Review + Create".
 </p>
 <br />
