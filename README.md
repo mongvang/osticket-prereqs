@@ -184,7 +184,7 @@ Click “Enable or disable an extension” <br>
 - MySQL Password: Password1 (Enter your Password)<br>
 - Click “Install Now!”<br>
 <p>
-<img src="https://imgur.com/tR8xG7k" height="50%" width="50%" alt="Start osTicket"/><br>
+<img src="https://imgur.com/tR8xG7k.png" height="50%" width="50%" alt="Start osTicket"/><br>
 </p>
 <br />
 <img src="https://i.imgur.com/UgVpUsQ.png" height="50%" width="50%" alt="Start osTicket"/><br>
