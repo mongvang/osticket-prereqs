@@ -19,6 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Setup Resource Group in Azure
 - Setup Virtual Machine within Resource Group
+- Install / Enable IIS in Windows WITH CGI
+- Create the directory C:\PHP and install PHP
+- Install osTicket v1.15.8-
+- Install HeidiSQL
+- Setup osticket in the browser
 
 <h2>Installation Steps</h2>
 
